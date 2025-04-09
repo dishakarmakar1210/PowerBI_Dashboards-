@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboards by Disha
+# 📊 Power BI Dashboards
 
 Hey there! Welcome to a colorful corner of my GitHub where raw data meets story-telling through charts, slicers, and the occasional donut graph 🍩✨  
 Here's a peek into three dashboards I’ve built using **Power BI**, showing off my analytical and visualization skills.
